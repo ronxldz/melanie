@@ -4,7 +4,7 @@ import "./App.css";
 const phrases = [
   "no",
   "are you sure??",
-  "mayber think again...",
+  "maybe think again...",
   "pleaseeee?",
   "cmon bae be fr",
   "you're being silly",
@@ -46,7 +46,7 @@ function App() {
             alt="kittycat2"
             src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHZ4bWh6azMwcHRtdGwycGMyeDB0bGRhdHhscjhoOGl5MW03Z2hxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QAn6JoVuABBEapYyX2/giphy.gif"
           />
-          <div className="question">let's go on a date?</div>
+          <div className="question">925 battery ave se ste 1125 @ 8</div>
           <div>
             <button
               className="yesButton"
